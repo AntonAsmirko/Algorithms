@@ -1,4 +1,9 @@
-import java.util.Scanner
+import java.io.BufferedReader
+import java.io.InputStream
+import java.io.InputStreamReader
+import java.util.*
+import kotlin.Comparator
+import kotlin.collections.ArrayList
 import kotlin.math.ceil
 import kotlin.math.log2
 import kotlin.math.pow
@@ -22,11 +27,11 @@ fun countingSort(arr: Array<Int>, string: String): Pair<ArrayList<Int>, Array<In
 }
 
 fun main() {
-    val scanner = Scanner(System.`in`)
-    val s = scanner.next()
+    val scanner = FastReader(System.`in`)
+    val s = scanner.next().toString()
     val suffixArray =
         buildSuffixArray(s).first.reversed().filterIndexed { index, i -> index < s.length }.reversed().toTypedArray()
-    suffixArray.forEach { print("${it} ") }
+    suffixArray.forEach { print("${it + 1} ") }
     println()
     (0 until s.length - 1).map {
         var p = 0
@@ -49,7 +54,7 @@ fun buildSuffixArray(s: String): Pair<ArrayList<Int>, Array<Int>> {
     val p = countingSort(suffixes, s)
     var c = p.second
     val suffixesS = p.first
-    for (i in 1 until ceil(log2(s.length.toDouble())).toInt()) {
+    for (i in 1..ceil(log2(s.length.toDouble())).toInt()) {
         suffixesS.sortWith(Comparator { o1, o2 ->
             return@Comparator when {
                 c[o1] > c[o2] -> 1
@@ -66,7 +71,8 @@ fun buildSuffixArray(s: String): Pair<ArrayList<Int>, Array<Int>> {
         suffixesS.forEachIndexed { index, it ->
             when {
                 index == 0 -> newC[it] = 0
-                c[(it + 2.0.pow(i - 1).toInt()) % c.size] == c[(suffixesS[index - 1] + 2.0.pow(i - 1)
+                c[it % c.size] == c[suffixesS[index - 1] % c.size] && c[(it + 2.0.pow(i - 1)
+                    .toInt()) % c.size] == c[(suffixesS[index - 1] + 2.0.pow(i - 1)
                     .toInt()) % c.size] -> newC[it] = newC[suffixesS[index - 1]]
                 else -> {
                     newC[it] = newC[suffixesS[index - 1]] + 1
@@ -78,4 +84,27 @@ fun buildSuffixArray(s: String): Pair<ArrayList<Int>, Array<Int>> {
         if (areAllDifferent) break
     }
     return Pair(suffixesS, c)
+}
+
+private class FastReader internal constructor(input: InputStream?) {
+    var br: BufferedReader
+    var st: StringTokenizer? = null
+    operator fun next(): String? {
+        while (st == null || !st!!.hasMoreElements()) {
+            st = try {
+                StringTokenizer(br.readLine())
+            } catch (e: Exception) {
+                return null
+            }
+        }
+        return st!!.nextToken()
+    }
+
+    fun nextLong(): Long {
+        return next()!!.toLong()
+    }
+
+    init {
+        br = BufferedReader(InputStreamReader(input))
+    }
 }
