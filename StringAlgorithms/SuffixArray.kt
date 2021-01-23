@@ -2,15 +2,17 @@ import java.io.BufferedReader
 import java.io.InputStream
 import java.io.InputStreamReader
 import java.util.*
-import kotlin.Comparator
 import kotlin.collections.ArrayList
 import kotlin.math.ceil
 import kotlin.math.log2
 import kotlin.math.pow
 
-fun countingSort(arr: Array<Int>, string: String): Pair<ArrayList<Int>, Array<Int>> {
-    val count = Array<MutableList<Int>>(27) { mutableListOf() }
-    arr.forEach { count[string[it] - '`'].add(it) }
+fun countingSort(
+    arr: List<Int>,
+    string: String,
+    getCount: (a: List<Int>, s: String) -> Array<MutableList<Int>>
+): Pair<ArrayList<Int>, Array<Int>> {
+    val count = getCount(arr, string)
     val result = arrayListOf<Int>()
     val classEquiv = Array(arr.size) { -1 }
     count.forEach { letter ->
@@ -30,7 +32,8 @@ fun main() {
     val scanner = FastReader(System.`in`)
     val s = scanner.next().toString()
     val suffixArray =
-        buildSuffixArray(s).first.reversed().filterIndexed { index, i -> index < s.length }.reversed().toTypedArray()
+        buildSuffixArray(s).first.reversed().filterIndexed { index, i -> index < s.length }.reversed()
+            .toTypedArray()
     suffixArray.forEach { print("${it + 1} ") }
     println()
     (0 until s.length - 1).map {
@@ -50,22 +53,16 @@ fun buildSuffixArray(s: String): Pair<ArrayList<Int>, Array<Int>> {
     val sLog = log2(s.length.toDouble()).toInt() + 1
     while (s.length < 2.0.pow(sLog).toInt())
         s += '`'
-    var suffixes = Array(s.length) { i -> i }
-    val p = countingSort(suffixes, s)
+    val suffixes = s.indices.toList()
+    val p = countingSort(suffixes, s) { a, str ->
+        val count = Array<MutableList<Int>>(27) { mutableListOf() }
+        a.forEach { count[str[it] - '`'].add(it) }
+        count
+    }
     var c = p.second
-    val suffixesS = p.first
+    var suffixesS = p.first
     for (i in 1..ceil(log2(s.length.toDouble())).toInt()) {
-        suffixesS.sortWith(Comparator { o1, o2 ->
-            return@Comparator when {
-                c[o1] > c[o2] -> 1
-                c[o1] < c[o2] -> -1
-                else -> when {
-                    c[(o1 + 2.0.pow(i - 1).toInt()) % c.size] > c[(o2 + 2.0.pow(i - 1).toInt()) % c.size] -> 1
-                    c[(o1 + 2.0.pow(i - 1).toInt()) % c.size] < c[(o2 + 2.0.pow(i - 1).toInt()) % c.size] -> -1
-                    else -> 0
-                }
-            }
-        })
+        suffixesS = digitalSort(suffixesS, c, i)
         val newC = Array(suffixesS.size) { -1 }
         var areAllDifferent = true
         suffixesS.forEachIndexed { index, it ->
@@ -84,6 +81,20 @@ fun buildSuffixArray(s: String): Pair<ArrayList<Int>, Array<Int>> {
         if (areAllDifferent) break
     }
     return Pair(suffixesS, c)
+}
+
+fun digitalSort(p: ArrayList<Int>, c: Array<Int>, k: Int): ArrayList<Int> {
+    var p = p
+    for (i in listOf(2.0.pow(k - 1).toInt(), 0)) {
+        val count = Array(p.size) { mutableListOf<Int>() }
+        p.forEach {
+            count[c[(it + i) % c.size]].add(it)
+        }
+        val result = arrayListOf<Int>()
+        count.forEach { letter -> letter.forEach { result.add(it) } }
+        p = result
+    }
+    return p
 }
 
 private class FastReader internal constructor(input: InputStream?) {
