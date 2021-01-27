@@ -1,13 +1,25 @@
 [A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A)
+
 [B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B)
+
 [C. Z-function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/C)
+
 [D. Fast substring search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/D)
+
 [E. Period](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/E)
+
 [F. Substrings-3](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/F)
+
 [G. Multiple search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/G)
+
 [H. Multiple search 2](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/H)
+
 [I. Multiple search 3](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/I)
+
 [J. Suffix array](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/J)
+
 [K. Number of substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/K)
+
 [L. Cyclic shifts](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/L)
+
 [M. Longest common substring](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/M)
