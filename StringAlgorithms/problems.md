@@ -1,25 +1,14 @@
-[A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A)
-
-[B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B)
-
-[C. Z-function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/C)
-
-[D. Fast substring search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/D)
-
-[E. Period](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/E)
-
-[F. Substrings-3](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/F)
-
-[G. Multiple search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/G)
-
-[H. Multiple search 2](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/H)
-
-[I. Multiple search 3](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/I)
-
-[J. Suffix array](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/J)
-
-[K. Number of substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/K)
-
-[L. Cyclic shifts](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/L)
-
-[M. Longest common substring](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/M)
+Problems:
+- :heavy_check_mark: [A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A)
+- :heavy_check_mark: [B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B)
+- :heavy_check_mark: [C. Z-function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/C)
+- :heavy_check_mark: [D. Fast substring search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/D)
+- :heavy_check_mark: [E. Period](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/E)
+- :heavy_check_mark: [F. Substrings-3](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/F)
+- :heavy_check_mark: [G. Multiple search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/G)
+- :heavy_check_mark: [H. Multiple search 2](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/H)
+- :heavy_check_mark: [I. Multiple search 3](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/I)
+- :heavy_check_mark: [J. Suffix array](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/J)
+- :heavy_check_mark: [K. Number of substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/K)
+- :heavy_check_mark: [L. Cyclic shifts](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/L)
+- :heavy_check_mark: [M. Longest common substring](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/M)
