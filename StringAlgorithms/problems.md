@@ -1,6 +1,6 @@
 Problems:
 - :heavy_check_mark: [A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/A.cpp)
-- :heavy_check_mark: [B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/B.kt)
+- :heavy_check_mark: [B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B) - ![img](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/B.kt)
 - :heavy_check_mark: [C. Z-function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/C) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/C.kt)
 - :heavy_check_mark: [D. Fast substring search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/D) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/D.kt)
 - :heavy_check_mark: [E. Period](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/E) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/E.kt)
