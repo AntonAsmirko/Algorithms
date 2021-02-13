@@ -1,4 +1,4 @@
-#Tasks:
+Tasks:
 - :heavy_check_mark: [A. Simple sum](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/A?locale=en)
  - :heavy_check_mark: [B. RSQ](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/B)
 - :heavy_check_mark: [C. RMQ2](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/C)
