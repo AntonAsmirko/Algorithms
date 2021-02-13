@@ -1,5 +1,5 @@
 Problems:
-- :heavy_check_mark: [A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A)
+- :heavy_check_mark: [A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A) [solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/A.cpp)
 - :heavy_check_mark: [B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B)
 - :heavy_check_mark: [C. Z-function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/C)
 - :heavy_check_mark: [D. Fast substring search](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/D)
