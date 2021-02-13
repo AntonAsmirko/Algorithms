@@ -1,0 +1,13 @@
+#Tasks:
+- :heavy_check_mark: [A. Simple sum](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/A?locale=en)
+ - :heavy_check_mark: [B. RSQ](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/B)
+- :heavy_check_mark: [C. RMQ2](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/C)
+- :heavy_check_mark: [D. Painter](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/D)
+- :heavy_check_mark: [E. Cryptografy](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/E?locale=en)
+- :heavy_check_mark: [F. Sparse table](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/F)
+- :heavy_check_mark: [G. Windows](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/G)
+- :heavy_check_mark: [H. Backward RMQ](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/H)
+- :x: [I. Mountains](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/I?locale=en)
+- :heavy_check_mark: [J. Chinise great wall](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/J?locale=en)
+- :heavy_check_mark: [K. Parking](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/K?locale=en)
+- :heavy_check_mark: [L. Stars](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/L?locale=en)
