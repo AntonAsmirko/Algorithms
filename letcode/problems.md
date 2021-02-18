@@ -15,4 +15,5 @@ ProblemsL
 - ✔️ [O Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/O.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [P Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/P.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [Q Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/Q.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ✔️ [R Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/R.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
