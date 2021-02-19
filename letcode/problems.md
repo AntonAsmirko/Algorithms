@@ -21,3 +21,4 @@ ProblemsL
 - ✔️ [T Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/T.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [U Pow(x, n)](https://leetcode.com/problems/powx-n/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/U.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [V Rotate Image](https://leetcode.com/problems/rotate-image/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/V.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ✔️ [W Sort Colors](https://leetcode.com/problems/sort-colors/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/W.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
