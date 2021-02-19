@@ -19,4 +19,4 @@ ProblemsL
 - ✔️ [R Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/R.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [S Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/S.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [T Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/T.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
+- ✔️ [U Pow(x, n)](https://leetcode.com/problems/powx-n/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/T.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
