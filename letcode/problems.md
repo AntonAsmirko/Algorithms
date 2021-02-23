@@ -33,3 +33,4 @@ ProblemsL
 - ✔️ [46. Permutations](https://leetcode.com/problems/permutations/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/46.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [47. Permutations II](https://leetcode.com/problems/permutations-ii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/47.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [61. Rotate List](https://leetcode.com/problems/rotate-list/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/61.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ✔️ [55. Jump Game](https://leetcode.com/problems/jump-game/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/55.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
