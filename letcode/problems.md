@@ -40,3 +40,4 @@ ProblemsL
 - ✔️ [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/40.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [15. 3Sum](https://leetcode.com/problems/3sum/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/15.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/16.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ✔️ [31. Next Permutation](https://leetcode.com/problems/next-permutation/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/31.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
