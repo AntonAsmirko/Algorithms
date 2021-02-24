@@ -41,3 +41,4 @@ ProblemsL
 - ✔️ [15. 3Sum](https://leetcode.com/problems/3sum/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/15.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/16.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [31. Next Permutation](https://leetcode.com/problems/next-permutation/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/31.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ✔️ [78. Subsets](https://leetcode.com/problems/subsets/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/78.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
