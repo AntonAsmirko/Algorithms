@@ -2,7 +2,7 @@
 :boom: Solutions for assignments from ITMO University and contests I participated :boom:
 
 AntonAsmirko/Algorithms\
-├── [Letcode solutions](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/problems.md)\
+├── [Leetcode solutions](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/problems.md)\
 ├── ITMO aignments\
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [DFS MST](https://github.com/AntonAsmirko/Algorithms/blob/main/DFS%2C%20MST%20ITMO%20aignments/problems.md)\
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [Segment tree](https://github.com/AntonAsmirko/Algorithms/blob/main/SegmentTree/problems.md)\
