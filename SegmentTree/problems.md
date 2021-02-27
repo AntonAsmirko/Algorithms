@@ -1,4 +1,4 @@
-Tasks:
+# Problems:
 - :heavy_check_mark: [A. Simple sum](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/A?locale=en) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/SegmentTree/A.cpp) ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  - :heavy_check_mark: [B. RSQ](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/B) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/SegmentTree/B.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - :heavy_check_mark: [C. RMQ2](https://codeforces.com/group/QmrArgR1Jp/contest/269449/problem/C) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/SegmentTree/C.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
