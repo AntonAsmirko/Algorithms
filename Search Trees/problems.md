@@ -1,4 +1,4 @@
-Problems:
+# Problems:
 - :heavy_check_mark: [A. Binary search tree](https://codeforces.com/group/QmrArgR1Jp/contest/275057/problem/A?locale=en) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/Search%20Trees/A.java) ![ing](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - :heavy_check_mark: [B. Balanced binary search tree](https://codeforces.com/group/QmrArgR1Jp/contest/275057/problem/B) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/Search%20Trees/B.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - :x: [C. Key insertion](https://codeforces.com/group/QmrArgR1Jp/contest/275057/problem/C)
