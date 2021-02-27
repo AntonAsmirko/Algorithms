@@ -1,4 +1,4 @@
-Problems:
+# Problems:
 - :heavy_check_mark: [A. Substrings](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/A) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/A.cpp) ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - :heavy_check_mark: [B. Prefix Function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/B) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/B.kt) ![img](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 - :heavy_check_mark: [C. Z-function](https://codeforces.com/group/QmrArgR1Jp/contest/306742/problem/C) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/StringAlgorithms/C.kt) ![img](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
