@@ -1,4 +1,4 @@
-Problems:
+# Problems:
 - :heavy_check_mark: [A. Topological sort](https://codeforces.com/group/QmrArgR1Jp/contest/298379/problem/A) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/DFS%2C%20MST%20ITMO%20aignments/A.kt) ![img](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 - :heavy_check_mark: [B. Bridges](https://codeforces.com/group/QmrArgR1Jp/contest/298379/problem/B) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/DFS%2C%20MST%20ITMO%20aignments/B.kt) ![img](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 - :heavy_check_mark: [C. Articulation points](https://codeforces.com/group/QmrArgR1Jp/contest/298379/problem/C) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/DFS%2C%20MST%20ITMO%20aignments/C.kt) ![img](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
