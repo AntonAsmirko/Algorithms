@@ -1,4 +1,4 @@
-# Algorithms
+# :metal: Algorithms :metal:
 :boom: Solutions for assignments from ITMO University and contests I participated :boom:
 
 AntonAsmirko/Algorithms\
