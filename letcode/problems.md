@@ -69,7 +69,6 @@
 - ✔️ [89. Gray Code](https://leetcode.com/problems/gray-code/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/89.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/H.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [90. Subsets II](https://leetcode.com/problems/subsets-ii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/90.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- ✔️ [91. Decode Ways](https://leetcode.com/problems/decode-ways/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/91.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ✔️ [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/917.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ✔️ [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/94.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/95.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -77,6 +76,5 @@
 - ✔️ [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/98.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/T.go) ![img](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ✔️ [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/988.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<<<<<<< HEAD
-=======
->>>>>>> d0ddd56a0867960d399105b1e0c9352aa9cc4da9
+- ✔️ [91. Decode Ways](https://leetcode.com/problems/decode-ways/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/91.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ✔️ [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) - [Solution](https://github.com/AntonAsmirko/Algorithms/blob/main/letcode/92.java) ![img](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
